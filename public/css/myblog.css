@@ -27,6 +27,8 @@ body,form,div,ul,ol,li,h1,h2,h3,h4,h5,h6,table,tr,th,td,p,input,dl,dt,dd,ul,ol,l
 .artlicelist{ border:0px;margin-bottom: 15px; background-color:#eff3f5; border-bottom: 1px solid #e2e8eb}
 .pager{float: right;}
 .footer{text-align: center;}
-.articlecontent{}
+.articlecontent{border-bottom: 1px solid #e2e8eb;background-color: #ffffff; padding: 20px 15px;}
 .blank{line-height: 20px; height: 20px; border-bottom: 1px solid #e2e8eb; padding-bottom: 20px;}
 .bs-callout {padding: 20px;margin: 20px 0;border: 1px solid #eee;border-left-width: 5px;border-radius: 3px; border-left-color: #2ECC71;}
+.breadcrumb{background-color: #ffffff}
+.share{border-top: 1px solid #e2e8eb}
