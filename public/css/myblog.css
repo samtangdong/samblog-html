@@ -1,7 +1,4 @@
-body {
-    color: rgb(52, 73, 94);
-    font: 14px/1.231 Lato, 微软雅黑;
-}
+
 body,form,div,ul,ol,li,h1,h2,h3,h4,h5,h6,table,tr,th,td,p,input,dl,dt,dd,ul,ol,li,input,textarea { font-family:"微软雅黑"!important;}
 .logo{height: 50px;}
 .content{background-color: #eff3f5; padding-bottom: 30px;}
@@ -30,3 +27,6 @@ body,form,div,ul,ol,li,h1,h2,h3,h4,h5,h6,table,tr,th,td,p,input,dl,dt,dd,ul,ol,l
 .artlicelist{ border:0px;margin-bottom: 15px; background-color:#eff3f5; border-bottom: 1px solid #e2e8eb}
 .pager{float: right;}
 .footer{text-align: center;}
+.articlecontent{}
+.blank{line-height: 20px; height: 20px; border-bottom: 1px solid #e2e8eb; padding-bottom: 20px;}
+.bs-callout {padding: 20px;margin: 20px 0;border: 1px solid #eee;border-left-width: 5px;border-radius: 3px; border-left-color: #2ECC71;}
