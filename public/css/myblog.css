@@ -1,3 +1,8 @@
+body {
+    color: rgb(52, 73, 94);
+    font: 14px/1.231 Lato, 微软雅黑;
+}
+body,form,div,ul,ol,li,h1,h2,h3,h4,h5,h6,table,tr,th,td,p,input,dl,dt,dd,ul,ol,li,input,textarea { font-family:"微软雅黑"!important;}
 .logo{height: 50px;}
 .content{background-color: #eff3f5; padding-bottom: 30px;}
 .topbanner{background: url('../images/banner.jpg')}
@@ -10,3 +15,18 @@
 .totla{background-color: #f8f8f8; width: 220px; margin: 0px;} 
 .totla .col-md-6{ padding-top:10px; border: 1px solid #eff3f5; }
 .foot{text-align: center; margin-top: 30px;}
+
+.headertop2{ margin:20px auto; width: 148px; height: 148px;}
+.content h3{text-align: center; margin-left: 30px; }
+.content h6{text-align: center; margin-left: 30px; color: #27AE60}
+.navation{width: 300px; padding-top: 50px; border: }
+.navation ul li a{color: #369}
+.articletype{margin:0; font-size: 14px; font-family: 微软雅黑; color: #9aabb8}
+.glyphicon-eye-open{color: #9aabb8;font-size: 18px;}
+.glyphicon-comment{color: #9aabb8;}
+.glyphicon-thumbs-up{color: #9aabb8;}
+.articletime{margin:0; font-size: 14px; font-family: 微软雅黑; color: #9aabb8}
+.img-rounded{width: 280px; height: 210px;}
+.artlicelist{ border:0px;margin-bottom: 15px; background-color:#eff3f5; border-bottom: 1px solid #e2e8eb}
+.pager{float: right;}
+.footer{text-align: center;}
