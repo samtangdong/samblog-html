@@ -1,0 +1,12 @@
+.logo{height: 50px;}
+.content{background-color: #eff3f5; padding-bottom: 30px;}
+.topbanner{background: url('../images/banner.jpg')}
+.left820{width: 900px; float: left; background-color: #ffffff; padding-top: 20px; padding-left: 10px; padding-right: 10px;}
+.media-middle img{width: 160px; height: 120px;}
+.content-right{width: 220px; box-shadow: 0 0 3px rgba(0,0,0,.1); float: right;}
+.myinfo{width: 220px; background-color: #fff; text-align: center; padding-top: 10px;}
+.headerimg{height: 100px; border: 1px solid #0682e8;}
+.articlelist{ border-bottom:1px solid #e0e7eb; padding-bottom: 10px; }
+.totla{background-color: #f8f8f8; width: 220px; margin: 0px;} 
+.totla .col-md-6{ padding-top:10px; border: 1px solid #eff3f5; }
+.foot{text-align: center; margin-top: 30px;}
